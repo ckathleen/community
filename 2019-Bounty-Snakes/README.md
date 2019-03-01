@@ -51,4 +51,6 @@ Beat the Redbrick Bounty Snake for entry into the draw prize for a $500 Visa gif
 Defeat our twin snakes Arnold and Danny in a 2v2 battle for a chance to win a $200 gift card at Flynn's VR!
 
 ## [Semaphore Solutions](https://semaphoresolutions.com/)
-Beat our bounty snake to be entered into a draw to win one of our fabulous prizes! (Boardgames, snake stuffies)
+Beat our bounty snake "Mondo Snake" 1v1 to be entered into a draw to win a boardgame or $20 worth of tokens for Quasar's arcade!
+
+And introducing Snake X: Legends! Compete against our bounty snakes (Fang Galore, Gib Rattler and Writhe) in a 3v3 match where the board shrinks each round. Winners will be entered in a draw for one of two large stuffed snakes.
