@@ -24,7 +24,7 @@ Beat Statler and Waldorf 2v2 for a chance to win dinner and drinks at Moon Under
 Beat our snake head-to-head on a 15 x 15 game board with 1 food and no spawn rate. Our grand prize will be $150 of gift cards(3 x $50 each) for Quazar's Arcade.
 
 ## [Schneider Electric Victoria](https://www.schneider-electric.ca/en/about-us/careers/overview.jsp)
-Beat our Bouty Snake names Schnake. Schnake is one part innovation, one part aggression, and one part collaboration to challenge those competing in the event!
+You will compete against Schnake on a 12x15 board. You can compete on one of two levels:  Beat Schnake 1v1 to be entered into our grand prize draw. Or compete 2v1 (two of our Schnakes vs one of yours) to win a Schneider Electric T-Shirt and be entered into our grand prize draw. Our grand prizes are a solar powered lantern, and a $200 gift certificate to Best Buy.
 
 
 ## [Pixel Union](https://www.pixelunion.net/)
