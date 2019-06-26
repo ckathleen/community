@@ -46,3 +46,4 @@ To help teach programming skills, we should:
  Thank you to the Battlesnake community for writing starter snakes in these languages:
  
  - [starter-snake-kotlin](https://github.com/athenian-programming/starter-snake-kotlin) - written in [Kotlin](https://kotlinlang.org/)
+ - [starter-snake-rust](https://github.com/mcraealex/rustysnake) - written in [Rust](https://www.rust-lang.org)
