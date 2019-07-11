@@ -7,7 +7,7 @@ help you to get started building your first snake to compete in the Battlesnake 
 Each of the starter snakes have have enough scaffolding code to run a snake both locally and on heroku.
 Every snake that takes part in Battlesnake is an http server that will accept requests from the battlesnake engine.
 
-Snakes has three ways of interacting with the engine.
+Snakes have three ways of interacting with the engine.
 
  - `start` - A call from the engine to tell the snake a game has begun.
  - `move` - A call from the engine to tell the snake the current board state and request the next move.
