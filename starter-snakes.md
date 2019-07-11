@@ -17,7 +17,7 @@ Snakes have three ways of interacting with the engine.
 Each starter snake (should) also have three unit tests that you can run to ensure that these methods/functions are working.
 
 
-## Design Phylosophy
+## Design Philosophy
 The target audience for the starter snakes is mainly junior programmers (but everyone is welcome to use them).
 
 The Goals of them are to:
@@ -30,7 +30,7 @@ To help provide boilerplate, we should provide:
 
 To help teach programming skills, we should:
  - avoid guiding the design of the code/logic.
- - avoid provide helper functions (beyond json/http-server code)
+ - avoid providing helper functions (beyond json/http-server code)
  
  ## Official Starter Snakes
  
